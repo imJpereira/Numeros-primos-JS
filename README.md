@@ -1,11 +1,10 @@
 # Numeros-primos-JS
 
-Instructions:
+Instruções:
 
-"Fill a 30-position array with randomly generated numbers. Then, go through the array and sum all the prime numbers in that array. Note: A prime number is one that can be divided by just two factors: the number one and itself."
+"Preencha um array de 30 posições com números gerados aleatoriamente. Em seguida, percorra o array e some todos os números primos dessa array. Observação: um número primo é aquele que pode ser dividido por apenas dois fatores: o número um e ele mesmo. "
 
-I was studying array methods (filter, map, reduce) and I found this project interesting. So I made my solution, I used 'filter' to filter the prime numbers and 'reduce' to add them all.
+Eu estava estudando métodos de array (filter, map, reduce) e achei esse projeto interessante. Então fiz minha solução, usei 'filter' para filtrar os números primos e 'reduce' para somar todos eles.
 
-I also tried to make the code as optimized as possible, using arrow functions and checking if the number is prime only with the square root, because if a number is not divisible by any number up to its root, it will not be divisible by another number after it, without being himself.
-
+Também tentei deixar o código o mais otimizado possível, utilizando arrow function e verificando se o número é primo apenas com a raiz quadrada, pois se um número não for divisível por nenhum número até sua raiz, ele não será divisível por outro número depois dele, sem ser ele mesmo.
 
