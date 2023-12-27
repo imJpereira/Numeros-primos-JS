@@ -1,2 +1,2 @@
 # Numeros-primos-JS
- Desafio de JavaScript envolvendo arrays
+ JavaScript challange, involving arrays. 
