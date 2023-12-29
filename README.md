@@ -1,8 +1,10 @@
 # Numeros-primos-JS
 
-Instruções:
+**Instruções:**
 
 "Preencha um array de 30 posições com números gerados aleatoriamente. Em seguida, percorra o array e some todos os números primos dessa array. Observação: um número primo é aquele que pode ser dividido por apenas dois fatores: o número um e ele mesmo. "
+
+---
 
 Eu estava estudando métodos de array (filter, map, reduce) e achei esse projeto interessante. Então fiz minha solução, usei 'filter' para filtrar os números primos e 'reduce' para somar todos eles.
 
